@@ -1,6 +1,6 @@
 # ResDex
 *“Research made easy. A platform tailored for students by students.”*
-![Resdex Black](https://github.com/user-attachments/assets/441cd6af-ef2c-4245-95ad-c14b59e13f88)
+![ResDex Banner](https://github.com/user-attachments/assets/bb981789-f2f6-47c6-8246-0e99a8e7f85d)
 
 
 ### About
