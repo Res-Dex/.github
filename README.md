@@ -12,6 +12,5 @@ We understand the difficulty and often timely process of cold-emailing hundreds 
 “That’s where RepoDex comes into play.” 
 
  
-
-### As a research-sharing platform, designed for students by students, we tailored the platform to fit those exact needs. Everything a student needs all on one site to help the user really build a portfolio around their contributions to the world of research.
+As a research-sharing platform, designed for students by students, we tailored the platform to fit those exact needs. Everything a student needs all on one site to help the user really build a portfolio around their contributions to the world of research.
 
