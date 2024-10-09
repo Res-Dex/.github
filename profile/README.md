@@ -1,5 +1,5 @@
 # ResDex
-*“Research made easy. A platform tailored for students by students.”*
+*“Research made easy. A platform tailored for students by students. | Platform Launching Soon!”*
 ___
 
 ![ResDex Banner](https://github.com/user-attachments/assets/bb981789-f2f6-47c6-8246-0e99a8e7f85d)
