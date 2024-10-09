@@ -7,7 +7,7 @@ ___
 ___
 
 ### About
-ResDex is a student-friendly, accessible research paper “publishing” platform that gives students the opportunity to stand out among millions, review and edit papers, and connect with PHD level researchers. Designed to foster a collaborative academic community, RepoDex allows users to showcase their research, achievements, and certifications in a dynamic online portfolio. 
+ResDex is a student-friendly, accessible research paper “publishing” platform that gives students the opportunity to stand out among millions, review and edit papers, and connect with PHD level researchers. Designed to foster a collaborative academic community, ResDex allows users to showcase their research, achievements, and certifications in a dynamic online portfolio. 
 
 By engaging in peer and expert reviews, students can refine their work, gain valuable feedback, and build meaningful connections with academics and professionals in their field.
 
