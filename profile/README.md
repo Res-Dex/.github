@@ -4,7 +4,8 @@
 `Platform Launching Soon!` | [ResDex Website](https://resdex.vercel.app)
 ___
 
-![ResDex Banner](https://github.com/user-attachments/assets/bb981789-f2f6-47c6-8246-0e99a8e7f85d)
+![ResDex Banner](<img width="1464" alt="Screenshot 2024-11-01 at 4 43 09 PM" src="https://github.com/user-attachments/assets/26d46cbc-77d4-46aa-a432-2eb89893f846">
+)
 
 ___
 
